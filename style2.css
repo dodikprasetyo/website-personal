@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+div.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+div.logo img {
+    width: 200px;
+    height: 200px;
+}
+
+div.menu ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+div.menu ul li {
+    list-style: none;
+}
